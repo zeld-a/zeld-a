@@ -8,18 +8,18 @@ I am from the USA 🇺🇸, currently in the Eastern Standard Time Zone. I am a 
 
 ### 🔭 I’m currently working on
 
-[<img src="assets/chip-8,webp" alt="chip-8 emulator in rust" height="150px">](https://github.com/zeld-a/chipstacean-8)
+[<img src="assets/chip-8.png" alt="chip-8 emulator in rust" height="150px">](https://github.com/zeld-a/chipstacean-8)
 
 ### 🌱 I’m currently learning
 
-[! [japanese hiraken] (assets/hiraken.webp)] (https://refold.la/how-to-learn-japanese/)
-[! [rust] (assets/rustacean.png)] (https://rust-lang.org/)
+[<img src="assets/hiraken.webp" alt="hiraken" height="150px">](https://refold.la/how-to-learn-japanese/)
+[<img src="assets/rustacean.png" alt="rustacean" height="150px">](https://rust-lang.org/)
 
 
 
 ### 🔨 I've contributed to
 
-[<img src="assets/zed.png" height="50px">](https://github.com/zed-industries/zed/pulls?q=author%3Azeld-a)
+[<img src="assets/zed.webp" height="50px">](https://github.com/zed-industries/zed/pulls?q=author%3Azeld-a)
 
 ### How to reach me
 
