@@ -1,23 +1,23 @@
-## Hi there 👋, my name is Chris or zeld-a
+## Hi there, my name is Chris or zeld-a
 
-### 🧑 About Me
+### About Me
 
 ![profile view count](https://komarev.com/ghpvc/?username=zeld-a)
 
-I am from the USA 🇺🇸, currently in the Eastern Standard Time Zone. I am a massive fan of Rust 🦀, Python 🐍, open-source, and writing efficient software. When I am not programming or doing schoolwork, You can find me playing the piano 🎹, enjoying a video game 🎮, or spending way too many hours ricing linux 🍚.
+I am from the USA, currently in the Eastern Standard Time Zone. I am a massive fan of Rust, Python, open-source, and writing efficient software. When I am not programming or doing schoolwork, You can find me playing the piano, enjoying a video game, or spending way too many hours ricing linux.
 
-### 🔭 I’m currently working on
+### I’m currently working on
 
 [<img src="assets/chip-8.png" alt="chip-8 emulator in rust" height="150px">](https://github.com/zeld-a/chipstacean-8)
 
-### 🌱 I’m currently learning
+### I’m currently learning
 
 [<img src="assets/hiraken.webp" alt="hiraken" height="150px">](https://refold.la/how-to-learn-japanese/)
 [<img src="assets/rustacean.png" alt="rustacean" height="150px">](https://rust-lang.org/)
 
 
 
-### 🔨 I've contributed to
+### I've contributed to
 
 [<img src="assets/zed.webp" height="50px">](https://github.com/zed-industries/zed/pulls?q=author%3Azeld-a)
 
