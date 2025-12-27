@@ -2,8 +2,6 @@
 
 ### About Me
 
-![profile view count](https://komarev.com/ghpvc/?username=zeld-a)
-
 I am from the USA, currently in the Eastern Standard Time Zone. I am a massive fan of Rust, Python, open-source, and writing efficient software. When I am not programming or doing schoolwork, You can find me playing the piano, enjoying a video game, or spending way too many hours ricing linux.
 
 ### I’m currently working on
